@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>WhatsApp Image 2023-07-02 at 20.35.50.jpg</file>
+        <file>addCard.png</file>
+        <file>ATM.png</file>
+        <file>balance.png</file>
+        <file>cashIn.png</file>
+        <file>firstPage.png</file>
+        <file>leftSide.png</file>
+        <file>Screenshot 2024-05-15 005649.png</file>
+        <file>eye-password-show-svgrepo-com.png</file>
+        <file>eye-password-hide-svgrepo-com.png</file>
+        <file>eye-password-hide-svgrepo-com (1).png</file>
+        <file>eye-password-show-svgrepo-com (1).png</file>
+    </qresource>
+</RCC>

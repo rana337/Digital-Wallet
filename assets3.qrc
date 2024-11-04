@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix3">
+        <file>pinAndPass.png</file>
+        <file>signin1.png</file>
+        <file>signin2.png</file>
+        <file>BD.png</file>
+        <file>email.png</file>
+        <file>phone.png</file>
+    </qresource>
+</RCC>
